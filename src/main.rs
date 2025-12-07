@@ -23,7 +23,7 @@ fn calculate(a: f64, b: f64, op: Operation) -> Result<f64, String> {
 
 fn main() {
    
-    let a = 10.0;
+    let a = -1232.0;
     let b = 5.0;
     
 
